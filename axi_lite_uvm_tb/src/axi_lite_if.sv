@@ -6,3 +6,4 @@ interface axi_lite_if #(parameter DATA_WIDTH = 32) (input logic ACLK, input logi
   logic [1:0] BRESP, RRESP;
   logic [DATA_WIDTH-1:0] RDATA;
 endinterface
+
