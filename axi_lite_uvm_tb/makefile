@@ -3,7 +3,7 @@
 # Simulator: Synopsys VCS
 # ================================================================
 
-# Top-level testbench module
+# Top-level testbench module.
 TOP = testbench_top
 
 # UVM test to run
