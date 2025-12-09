@@ -1,6 +1,6 @@
 class axi_lite_basic_test extends uvm_test;
   `uvm_component_utils(axi_lite_basic_test)
-
+// to do: adding timing features
   axi_lite_monitor mon;
   axi_lite_checker check;
 
